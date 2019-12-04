@@ -1,4 +1,4 @@
-code of stack as linked list
+nice code of stack as linked list
 
 #include <stdio.h> 
 #include <stdlib.h> 
